@@ -16,7 +16,7 @@
 git clone
 git clone https://github.com/shinshin0773/laravel_umarche.git
 
-##　インストール方法
+##　インストール方法 テスト
 
 
 

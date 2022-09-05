@@ -47,6 +47,7 @@ php artisan serve
 ##　インストール後の実装事項
 
 画像のダミーデータは
+faker & factory で作成しています
 public/imagesフォルダ内に
 sample1.jpg ~ sample6.jpg　として保存しています。
 

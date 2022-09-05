@@ -15,7 +15,7 @@
 ## ダウンロード方法
 git clone https://github.com/shinshin728/Web_Kadai.git
 
-##　インストール方法 テスト
+##　インストール方法
 composer install
 npm install
 npm run dev
@@ -23,12 +23,12 @@ npm run dev
 envファイルの中の下記をご利用の環境に合わせて変更してください。
 .env.example をコピーして .env ファイルを作成
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=****
-DB_USERNAME=****
-DB_PASSWORD=****
+DB_CONNECTION=mysql <br>
+DB_HOST=127.0.0.1 <br>
+DB_PORT=3306 <br>
+DB_DATABASE=**** <br>
+DB_USERNAME=**** <br>
+DB_PASSWORD=**** <br>
 
 XAMPP/MAMPまたは他の開発環境でDBを起動した後に
 
